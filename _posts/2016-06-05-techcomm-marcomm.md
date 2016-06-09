@@ -9,7 +9,7 @@ On the other side are people doing another kind of communications. They want to 
 
 ### A tale of two worlds
 
-Web design as we know it grew out of the marketing world. Starting from a markup language designed to deliver information in a simple way with tags like `<title>` and `<body>`, follow-on styling languages and applications have been hacked into existence ever since.
+Web design as we know it grew out of the marketing world. Starting from a markup language designed to deliver information in a simple way with tags like `<title>` and `<body>`, follow-on styling frameworks and applications have been hacked into existence ever since.
 
 Web design concerns itself with maximizing usability and attractiveness of content to deliver marketing messages and sell products and services. Technologies enabling web design have evolved at an impressive rate, and they continue to grow at a pace that defies attempts to master them all.
 
@@ -21,7 +21,7 @@ SOPs spread from government to the private sector by way of research and defence
 
 Typically the two departments---marketing and techcomm---have little to say to each other. It's not only that their goals differ; it's also become an "us and them" problem. This is unfortunate, because both departments stand to benefit from more cooperation.
 
-One unfortunate consequence is that few technical writers work with scripting languages or are aware of how these can benefit their output. Tools for both web design and for handling complex information have grown independently.
+One unfortunate consequence is that few technical writers work with scripting frameworks or are aware of how these can benefit their output. Tools for both web design and for handling complex information have grown independently.
 
 This means it's very costly to use standard web technologies to document, say, a suite of related products across multiple markets and languages. You need dedicated software like Adobe FrameMaker or MadCap Flare for that.
 

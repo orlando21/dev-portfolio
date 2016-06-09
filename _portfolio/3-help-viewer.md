@@ -61,7 +61,7 @@ I was pleasantly surprised by how easily I could store help topics in all their 
 
 In the `home` template of the app, I use Angular directives like `ngShow` and `ngRepeat` to correctly display relevant help topic content stored in Firebase.
 
-Once enhancement that interested me was the possibility of printing topics. Implementing a print feature is apparently much easier on the server side so I would be challenged to write one for a client-side app like this one. My mentor recommended trying out [DocRaptor](https://docraptor.com/). I was looking forward to adding client-side printing but unfortunately had issues implementing the DocRaptor API in Angular. There is no guidance on the DocRaptor site for using their API with Angular (only with jQuery and other scripting languages).
+Once enhancement that interested me was the possibility of printing topics. Implementing a print feature is apparently much easier on the server side so I would be challenged to write one for a client-side app like this one. My mentor recommended trying out [DocRaptor](https://docraptor.com/). I was looking forward to adding client-side printing but unfortunately had issues implementing the DocRaptor API in Angular. There is no guidance on the DocRaptor site for using their API with Angular (only with jQuery and other scripting frameworks).
 
 Search was also something I wanted to add but unfortunately time ran out.
 
