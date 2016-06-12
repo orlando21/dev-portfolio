@@ -5,7 +5,7 @@ title: Being a student at Bloc
 
 I took Bloc's [Frontend Development](https://www.bloc.io/frontend-development-bootcamp) course with the 16 week option. My day job was less than full time, which allowed me to do this.
 
-Before signing up, I researched a number of options. As I'm not sure when I'll have time again to take a half-year course, I wanted a learning experience that would offer maximum impact in terms of gaining knowledge while providing opportunities to actually build complex stuff. My view is that just doing programming exercises is like learning how to use a hammer and nail while using skills to build the facade of a small house is an entirely different undertaking.
+Before signing up, I researched a number of options. As I'm not sure when I'll have time again to take a half-year course, I wanted a learning experience that would offer maximum impact in terms of gaining knowledge while providing opportunities to actually build complex stuff. My view is that just doing programming exercises is like learning how to use a hammer and nail, while using skills to build the facade of a small house is an entirely different undertaking.
 
 ### Getting started
 
@@ -35,4 +35,4 @@ My family will probably also be happy that my course at Bloc is ending.
 
 ### Wrapping up
 
-These are my experiences with Bloc and I'm sure it'll be different for others. One thing to expect is that after finishing, you're certainly not going to know everything there is to know. It's important to keep in mind that completing the course puts you at the start of something and not at the end.
+These are my experiences with Bloc and I'm sure it'll be different for others. One thing to expect is that after finishing, you're certainly not going to know everything there is to know about web development. It's important to keep in mind that completing the course puts you at the start of something and not at the end.

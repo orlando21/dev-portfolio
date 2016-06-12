@@ -3,9 +3,9 @@ layout: post
 title:  Technical and marketing communication
 ---
 
-A large, impenetrable wall separates the marketing from the technical communication departments in companies, and for good reason. On one side of the wall is marketing. They define the strategy for presenting messages and content to the outside world, especially on the web.
+A large, impenetrable wall separates the marketing from the technical communication departments in companies, and for good reason. On one side of the wall is marketing. They define the strategy for presenting messages and content to the outside world.
 
-On the other side are people doing another kind of communications. They want to help customers get the most out of products. Their messages tend to be more sober and serious in tone because the trust is already there. It's a question of keeping users from leaving.
+On the other side are people doing another kind of communications. They want to help customers get the most out of products. Their messages tend to be more sober and serious in tone because the trust is already there. It's also a question of keeping users from leaving.
 
 ### A tale of two worlds
 
@@ -19,7 +19,7 @@ SOPs spread from government to the private sector by way of research and defence
 
 ### Twin paths
 
-Typically the two departments---marketing and techcomm---have little to say to each other. It's not only that their goals differ; it's also become an "us and them" problem. This is unfortunate, because both departments stand to benefit from more cooperation.
+Typically the two departments---marketing and techcomm---have little to say to each other. It's not only that their goals differ; it's also become an "us and them" problem. This is unfortunate, because both departments could benefit from more cooperation.
 
 One unfortunate consequence is that few technical writers work with scripting frameworks or are aware of how these can benefit their output. Tools for both web design and for handling complex information have grown independently.
 
