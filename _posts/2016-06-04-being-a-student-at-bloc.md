@@ -3,7 +3,7 @@ layout: post
 title: Being a student at Bloc
 ---
 
-I took Bloc's [Frontend Development](https://www.bloc.io/frontend-development-bootcamp) course with the 16 week option. My day job was less than full time, which allowed me to do this.
+I took Bloc's [Frontend Development](https://www.bloc.io/frontend-development-bootcamp) online bootcamp with the 16 week option. My day job was less than full time, which allowed me to do this.
 
 Before signing up, I researched a number of options. As I'm not sure when I'll have time again to take a half-year course, I wanted a learning experience that would offer maximum impact in terms of gaining knowledge while providing opportunities to actually build complex stuff. My view is that just doing programming exercises is like learning how to use a hammer and nail, while using skills to build the facade of a small house is an entirely different undertaking.
 
