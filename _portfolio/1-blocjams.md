@@ -3,7 +3,7 @@ layout: case_study
 title: Bloc Jams
 feature-img: "img/blocjams.jpg"
 thumbnail-path: "img/blocjams_thumbnail.jpg"
-short-description: First Angular project. Yay!
+short-description: A Spotify clone in Angular. Yay!
 github-repository: orlando21/ng-bloc-jams
 demo-url: http://ng-bloc-jams.herokuapp.com
 
