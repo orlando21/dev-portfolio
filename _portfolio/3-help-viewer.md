@@ -3,7 +3,7 @@ layout: case_study
 title: Help Viewer
 feature-img: "img/ng-help-viewer-dark.png"
 thumbnail-path: "img/ng-help-viewer_thumbnail.jpg"
-short-description: Store help topics in a database.
+short-description: Help topics in a database.
 demo-url: http://ng-help-viewer.herokuapp.com
 
 ---
